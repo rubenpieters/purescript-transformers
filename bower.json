@@ -27,7 +27,9 @@
     "purescript-arrays": "^4.0.0",
     "purescript-lazy": "^3.0.0",
     "purescript-distributive": "^3.0.0",
-    "purescript-tuples": "^4.0.0"
+    "purescript-tuples": "^4.0.0",
+    "purescript-type-equality": "^2.1.0",
+    "purescript-exceptions": "^3.1.0"
   },
   "devDependencies": {
     "purescript-console": "^3.0.0"
